@@ -3,6 +3,4 @@
 
 ## Desafios feitos
 
-`
-- contar ocorrência em que palavra aparece dentro de uma string;
-`
+`- contar ocorrência em que palavra aparece dentro de uma string;`
